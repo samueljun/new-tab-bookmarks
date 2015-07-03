@@ -1,3 +1,3 @@
 # New Tab Bookmarks - Firefox Extension
 
-A simple Firefox extension that sets the new tab page to the bookmarks panel
+New Tab Bookmarks is a simple Firefox extension that sets the new tab page to the bookmarks panel.
