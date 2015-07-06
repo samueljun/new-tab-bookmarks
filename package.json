@@ -2,7 +2,7 @@
 	"name": "new-tab-bookmarks",
 	"title": "New Tab Bookmarks",
 	"id": "jid1-bAtUjsxDnhCcZw",
-	"description": "New Tab Bookmarks is a simple Firefox extension that sets the new tab page to the bookmarks panel.",
+	"description": "Set the new tab page to the bookmarks panel.",
 	"author": "Samuel Jun",
 	"license": "MPL 2.0",
 	"version": "0.1",
