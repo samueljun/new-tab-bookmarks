@@ -2,7 +2,7 @@
   "title": "New Tab Bookmarks",
   "name": "new-tab-bookmarks",
   "id": "jid1-bAtUjsxDnhCcZw@jetpack",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Set the new tab page to the bookmarks panel.",
   "main": "index.js",
   "author": "Samuel Jun",
