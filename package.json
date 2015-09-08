@@ -6,6 +6,9 @@
   "description": "Set the new tab page to the bookmarks panel.",
   "main": "index.js",
   "author": "Samuel Jun",
+  "engines": {
+    "firefox": ">= 41.*"
+  },
   "license": "GPL-3.0",
 
   "homepage": "https://github.com/samueljun/New-Tab-Bookmarks",
