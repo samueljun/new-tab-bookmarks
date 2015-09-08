@@ -1,12 +1,13 @@
 {
-	"name": "new-tab-bookmarks",
-	"title": "New Tab Bookmarks",
-	"id": "jid1-bAtUjsxDnhCcZw",
-	"description": "Set the new tab page to the bookmarks panel.",
-	"author": "Samuel Jun",
-	"license": "MPL 2.0",
-	"version": "0.1",
+  "title": "New Tab Bookmarks",
+  "name": "new-tab-bookmarks",
+  "id": "jid1-bAtUjsxDnhCcZw@jetpack",
+  "version": "0.2.1",
+  "description": "Set the new tab page to the bookmarks panel.",
+  "main": "index.js",
+  "author": "Samuel Jun",
+  "license": "GPL-3.0",
 
-	"homepage": "https://github.com/samueljun/New-Tab-Bookmarks",
-	"permissions": { "private-browsing": true }
+  "homepage": "https://github.com/samueljun/New-Tab-Bookmarks",
+  "permissions": { "private-browsing": true }
 }
