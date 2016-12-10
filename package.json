@@ -2,15 +2,18 @@
   "title": "New Tab Bookmarks",
   "name": "new-tab-bookmarks",
   "id": "jid1-bAtUjsxDnhCcZw@jetpack",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Set the new tab page to the bookmarks panel.",
   "main": "index.js",
   "author": "Samuel Jun",
   "engines": {
-    "firefox": ">= 41.*"
+    "firefox": ">= 42.*"
   },
   "license": "GPL-3.0",
 
   "homepage": "https://github.com/samueljun/New-Tab-Bookmarks",
-  "permissions": { "private-browsing": true }
+  "permissions": {
+    "multiprocess": true,
+    "private-browsing": true
+  }
 }
